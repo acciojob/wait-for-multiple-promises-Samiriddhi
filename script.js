@@ -51,3 +51,7 @@ async function callFns() {
             </tr>
           `;
 }
+
+callFns();
+ 
+ 
